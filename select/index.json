@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Lovers on the Sun",
+  "base_artist": "David Guetta",
+  "createdAt": "2026-02-19T10:24:56.672245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovers On The Sun",
+      "artist": "Kalmah",
+      "has_synced": false,
+      "path": "select/01_Lovers_On_The_Sun_Kalmah.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovers on the Sun",
+      "artist": "Beth",
+      "has_synced": true,
+      "path": "select/02_Lovers_on_the_Sun_Beth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovers on the Sun",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/03_Lovers_on_the_Sun_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovers on the Sun",
+      "artist": "Maybon",
+      "has_synced": true,
+      "path": "select/04_Lovers_on_the_Sun_Maybon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovers on the Sun",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/05_Lovers_on_the_Sun_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovers On The Sun [David Guetta]",
+      "artist": "Kalmah",
+      "has_synced": false,
+      "path": "select/06_Lovers_On_The_Sun_[David_Guetta]_Kalmah.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovers on the Sun",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/07_Lovers_on_the_Sun_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovers on The Sun - David Guetta",
+      "artist": "Sonstige",
+      "has_synced": true,
+      "path": "select/08_Lovers_on_The_Sun_-_David_Guetta_Sonstige.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovers On The Sun (Bonus Track)",
+      "artist": "Kalmah",
+      "has_synced": false,
+      "path": "select/09_Lovers_On_The_Sun_(Bonus_Track)_Kalmah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovers On The Sun",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/pl_01_Lovers_On_The_Sun_David_Guetta.txt"
+    }
+  ]
+}
